@@ -1,5 +1,6 @@
 // 71 Lines -- Matteo Mosca
 'use strict';
+// Login to the "server-side" https://bubble.io/page?name=index&id=lootv1&tab=tabs-2
 
 // Constants
 const FRAME_SRC_ORIGIN = "https://lootv1.bubbleapps.io";
